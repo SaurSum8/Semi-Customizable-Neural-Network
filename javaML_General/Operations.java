@@ -8,7 +8,7 @@ public class Operations {
 			return value;
 		
 		else
-			return 0.0;
+			return 0.01 * value;
 		
 	}
 	
@@ -18,7 +18,7 @@ public class Operations {
 			return 1.0;
 		
 		else
-			return 0.0;
+			return 0.01;
 		
 	}
 	
